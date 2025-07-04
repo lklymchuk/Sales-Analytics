@@ -46,4 +46,3 @@ from (
     ) date_snt
 ) sent_msg_percent
 order by sent_month, id_account;
-
